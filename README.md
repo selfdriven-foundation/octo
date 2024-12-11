@@ -10,4 +10,5 @@
 ### Resources
 - [selfdriven.foundation/octo](https://selfdriven.foundation/octo)
 - [heyOcto.ai](https://heyocto.ai)
+- [OctoPool](/octopool)
 
