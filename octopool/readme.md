@@ -13,4 +13,6 @@
 - Support the Octomics framework as a contributing stakepool - by contributing a % of rewards
 - A pool to stake any selfdriven treasury funds and alike.
 
+### Docs
 
+- [Design & Planning](https://docs.google.com/document/d/1vfqdKDCHo1KGfVEN2qRibyjLl3mysv33cS5NRlrKr9Q/edit)
