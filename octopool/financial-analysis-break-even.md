@@ -57,17 +57,18 @@ Rewards depend on the total stake delegated to your pool and your pool's ability
 
 ## Delegation Requirements for Break-Even
 
-To break even:
-1. Calculate the rewards needed to cover monthly costs:
-   \[
-   \text{Rewards Needed (ADA)} = \frac{\text{Monthly Costs (USD)}}{\text{ADA Price}} = \frac{393}{0.30} \approx 1,310 \, \text{ADA/month}
-   \]
-2. Required delegation to produce ~1,310 ADA:
-   \[
-   \text{Required Delegation (ADA)} = \frac{\text{Rewards Needed}}{\text{Rewards per ADA Staked}} = \frac{1,310}{\frac{2,809}{1,000,000}} \approx 466,464 \, \text{ADA}
-   \]
+To calculate the rewards needed to cover monthly costs:
 
-**Break-Even Delegation**: ~470,000 ADA (at a price of $0.30/ADA).
+1. Rewards Needed (ADA):
+   - Formula: Rewards Needed (ADA) = Monthly Costs (USD) / ADA Price
+   - Substituting values: 393 / 0.30 ≈ 1,310 ADA/month
+
+2. Required Delegation (ADA):
+   - Formula: Required Delegation (ADA) = Rewards Needed / Rewards per ADA Staked
+   - Rewards per ADA Staked = Total Monthly Rewards / Total Delegation
+   - Substituting values: 1,310 / (2,809 / 1,000,000) ≈ 466,464 ADA
+
+**Break-Even Delegation:** ~470,000 ADA (at a price of $0.30/ADA).
 
 ---
 
