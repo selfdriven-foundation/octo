@@ -11,4 +11,6 @@
 - [selfdriven.foundation/octo](https://selfdriven.foundation/octo)
 - [heyOcto.ai](https://heyocto.ai)
 - [OctoPool](/octopool)
+- [octomics.io](https://octomics.io)
+- [octology.io](https://octology.io)
 
